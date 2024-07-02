@@ -98,7 +98,7 @@ Otherwise, for every 5 km/s above the speed limit (70), it should give the drive
 
 - Remember to comment out each function execution once done to avoid confusion with the outputs.
 
-## Challenge 3: Net Salary Calculator (Toy Problem)
+## Challenge 3: Net Salary Calculator
 
 ### Description
 
